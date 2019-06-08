@@ -1,0 +1,4 @@
+departmentID, deptname
+1,IT Department
+2,ADMIN Department
+3,GOVT Department

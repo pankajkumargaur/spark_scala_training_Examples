@@ -1,0 +1,7 @@
+emp_name,age,salary, deptid
+krishna,32,10000,1
+anu,49,12000,1
+goutham,29,24000,2
+satya,28,11000,2
+munna,30,19000,3
+sunitha,20,24000,1
